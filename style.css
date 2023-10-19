@@ -1,33 +1,33 @@
 body {
-    background-color: #1c1c1c;
+    background-color: #161715;
 }
 h1 {
-    color: #23ee23;
-    font-size: 26px;
+    color: #20ee20;
+    font-size: 32px;
     margin: 4px 2px;
 }
 h2 {
-    color: #44ee44;
-    font-size: 24px;
+    color: #20ff90;
+    font-size: 29px;
     margin: 4px 2px;
 }
 h3 {
-    color: #65ee65;
-    font-size: 22px;
+    color: #20ffff;
+    font-size: 26px;
     margin: 4px 2px;
 }
 h4 {
-    color: #86ee86;
-    font-size: 20px;
+    color: #2090ff;
+    font-size: 23px;
     margin: 4px 2px;
 }
 h5 {
-    color: #a7eea7;
-    font-size: 18px;
+    color: #2030ff;
+    font-size: 20px;
     margin: 4px 2px;}
 h6 {
-    color: #c8eec8;
-    font-size: 16px;
+    color: #902090;
+    font-size: 17px;
     margin: 4px 2px;
 }
 p {
@@ -41,7 +41,7 @@ li {
     margin: 2px 2px;
 }
 a {
-    color: #8888ff;
+    color: #84f;
     font-size: 14px;
     margin: 2px 2px;
 }
@@ -50,17 +50,23 @@ table {
     font-size: 14px;
     border: 1px solid;
     width: 100%;
-    border-color: #4d4d4d;
+    border-color: #666;
+}
+th {
+    color: #2090ff;
+    font-size: 14px;
+    border: 1px solid;
+    border-color: #333;
 }
 td {
     color: #eeeeee;
     font-size: 14px;
     border: 1px solid;
-    border-color: #4d4d4d;
+    border-color: #333;
 }
-th {
-    color: #a7eea7;
+code {
+    color: #eeeeee;
     font-size: 14px;
-    border: 1px solid;
-    border-color: #4d4d4d;
+    font-family: monospace;
+    margin: 2px 2px;
 }
